@@ -5,7 +5,7 @@ um dia que a prova da Fuvest foi aplicada, portanto isso não está no treinamen
 
 O código é um simples CLI que chama o codex com as permissões adequadas (o gabarito só é baixado
 após o codex ser fechado):
-```python
+```bash
 uv run benchmark.py model thinking
 ```
 
